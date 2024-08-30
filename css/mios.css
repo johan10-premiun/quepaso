@@ -1,0 +1,27 @@
+header, .header{
+    background-image: url(/img/FONDO-HEADER.png);
+}
+.padinn{
+    padding-top: 3.5rem;
+}
+.hoversito:hover{
+    font-weight: bold;
+    color: brown;
+}
+.box-j {
+    transition: transform 0.3s ease; 
+}
+
+.box-j:hover {
+    transform: scale(1.2); 
+    
+}
+.bordesioo:hover{
+    border-right: red 1px solid ;
+}
+.fondo-revista{
+    background-image: url(/img/fondo-revista.jpg);
+}
+.amarela:hover{
+    border: yellow 2px solid;
+}
